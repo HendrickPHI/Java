@@ -1,5 +1,7 @@
 package br.edu.hendrick.minhathread;
 
+//Criando Threads + métodos start, run e sleep
+
 public class JavaThread extends Thread {
 
     private String nome;
